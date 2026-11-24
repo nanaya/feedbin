@@ -15,3 +15,4 @@
   - [process_<%= `hostname`.strip %>,        2]
   - [utility,                                1]
   - [utility_critical,                       2]
+  - [search_index,                           1]
